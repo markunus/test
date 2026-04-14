@@ -3,5 +3,6 @@
     "admin": "yunus",
     "version": 1,
     "urlkey": "http://gogle.com",
-    "urludate": "http://googl.com"
+    "urlupdate": "http://googl.com",
+    "verif": "true"
 }
