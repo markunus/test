@@ -1,0 +1,7 @@
+{
+    "user": 12345,
+    "admin": "yunus",
+    "version": 1,
+    "urlkey": "http://gogle.com",
+    "urludate": "http://googl.com"
+}
