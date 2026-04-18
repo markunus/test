@@ -4,5 +4,5 @@
     "version": 1,
     "urlkey": "http://gogle.com",
     "urlupdate": "http://googl.com",
-    "verif": "false"
+    "verif": "true"
 }
